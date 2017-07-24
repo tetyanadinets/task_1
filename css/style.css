@@ -56,7 +56,7 @@ footer{
 	margin: 40px 0;
 	text-align: right;
 }
-a:before {
+footer a:before {
 	content: "";
 	display: inline-block;
 	width: 0;
